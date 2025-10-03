@@ -1,40 +1,43 @@
 <h1 align="center">Hi 👋, I'm Palakolanu Dhanunjay Reddy</h1>
-<h3 align="center">| Aspiring Full Stack Developer
-Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3>
+<h3 align="center">| Aspiring Full Stack Developer | Open Source Enthusiast | Learning Prompt Engineering & AI Integration |</h3>
 
+---
 
+- 🔭 I’m currently working on **[Hacksprint](https://hacksprint-rouge.vercel.app/)**  
 
-- 🔭 I’m currently working on **[Hacksprint](https://hacksprint-rouge.vercel.app/)**
-
-- 🚀 I’m currently learning **Firebase, React, Flutter, Backend APIs, and TypeScript**
+- 🚀 I’m currently learning **Firebase, React, Flutter, Backend APIs, and TypeScript**  
 
 - 👨‍💻 My Portfolio Projects:
-  - [Hacksprint](https://hacksp.vercel.app/)
-  - [AI ChatBot Assistant](https://pdreddy-dhanu-chat-bot.netlify.app)
-  - [Short Music Tunes](https://pdr-tunes.netlify.app)
-  - [Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)
-  - [Personal Portfolio](https://dhanunportfolio.netlify.app/)
+  - [Hacksprint](https://hacksp.vercel.app/)  
+  - [AI ChatBot Assistant](https://pdreddy-dhanu-chat-bot.netlify.app)  
+  - [Short Music Tunes](https://pdr-tunes.netlify.app)  
+  - [Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)  
+  - [Personal Portfolio](https://dhanunportfolio.netlify.app/)  
 
-- 📅 Recent Certifications: **Google Generative AI, Web Full Stack, AI-ML by Google-AICTE**
+- 📅 Recent Certifications: **Google Generative AI, Web Full Stack, AI-ML by Google-AICTE**  
 
-- 🤔 Ask me about **HTML5, CSS3, GitHub, Google GenAI API**
+- 🤔 Ask me about **HTML5, CSS3, GitHub, Google GenAI API**  
 
-- 🧠 I'm currently **exploring TypeScript as a beginner**, learning it through hands-on projects and real use cases.
+- 🧠 I'm currently **exploring TypeScript as a beginner**, learning it through hands-on projects.  
 
-- 📧 Reach me: **palakolanudhanunjayreddy@gmail.com**
+- 📧 Reach me: **palakolanudhanunjayreddy@gmail.com**  
 
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1JwYjnQHSYwqGHkytpOTPUs2yPCoAaGsA/view?usp=sharing)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1JwYjnQHSYwqGHkytpOTPUs2yPCoAaGsA/view?usp=sharing)  
 
-- ✨ Fun fact: **I enjoy turning real-life problems into smart web-based solutions!**
+- ✨ Fun fact: **I enjoy turning real-life problems into smart web-based solutions!**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhanunjay-reddy-palakolanu-878b70259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pdreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://t.me/PDReddy_Dhanu04_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -47,6 +50,9 @@ Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3
   <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 </p>
 
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PDR-Dhanu&show_icons=true&locale=en&layout=compact" alt="PDR-Dhanu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PDR-Dhanu&show_icons=true&locale=en" alt="PDR-Dhanu" /></p>
