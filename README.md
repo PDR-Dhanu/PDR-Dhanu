@@ -47,8 +47,8 @@ Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3
   <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PDreddyDhanu&show_icons=true&locale=en&layout=compact" alt="PDreddyDhanu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PDR-Dhanu&show_icons=true&locale=en&layout=compact" alt="PDR-Dhanu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PDreddyDhanu&show_icons=true&locale=en" alt="PDreddyDhanu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PDR-Dhanu&show_icons=true&locale=en" alt="PDR-Dhanu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PDreddyDhanu&" alt="PDreddyDhanu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PDR-Dhanu&" alt="PDR-Dhanu" /></p>
